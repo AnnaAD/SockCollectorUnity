@@ -7,7 +7,7 @@ Ask to be a collaberator on the discord, make sure to give your username.
 
 
 ## To Do List
-- [ ] Make Player that can move and collide with walls and camera that follows player - UNCLAIMED
+- [ ] Make Player that can move and collide with walls and camera that follows player - Anna
 - [ ] Make Walls - UNCLAIMED
 - [ ] Make Sock Pickups - UNCLAIMED
 - [ ] Make Player Sprite - Maggie
