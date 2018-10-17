@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class PickUpInformation : MonoBehaviour {
-    private string type;
+    /*private string type;
     private int value;
 
     public string getType() {
@@ -13,7 +13,7 @@ public class PickUpInformation : MonoBehaviour {
     public string getValue() {
         return value;
     }
-
+    */
 
 
 }
